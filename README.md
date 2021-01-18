@@ -13,3 +13,5 @@ Uploaded schematic and pcb layout.
 
 Design files available to Patrons only as of this date.
 https://www.patreon.com/evbmw
+
+18/01/21 : (180Jacob) dual motor version of Yaris compatible layout uploaded to the prius repositroy - https://github.com/damienmaguire/Prius-Gen3-Inverter/tree/master/Small%20board%20V1d
